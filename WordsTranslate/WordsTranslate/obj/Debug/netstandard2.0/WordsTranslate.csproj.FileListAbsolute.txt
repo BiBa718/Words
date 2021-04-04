@@ -1,0 +1,14 @@
+C:\Users\Admin.000\Documents\C#\WordsTranslate\WordsTranslate\WordsTranslate\bin\Debug\netstandard2.0\WordsTranslate.deps.json
+C:\Users\Admin.000\Documents\C#\WordsTranslate\WordsTranslate\WordsTranslate\bin\Debug\netstandard2.0\WordsTranslate.dll
+C:\Users\Admin.000\Documents\C#\WordsTranslate\WordsTranslate\WordsTranslate\bin\Debug\netstandard2.0\WordsTranslate.pdb
+C:\Users\Admin.000\Documents\C#\WordsTranslate\WordsTranslate\WordsTranslate\obj\Debug\netstandard2.0\WordsTranslate.csprojAssemblyReference.cache
+C:\Users\Admin.000\Documents\C#\WordsTranslate\WordsTranslate\WordsTranslate\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin.000\Documents\C#\WordsTranslate\WordsTranslate\WordsTranslate\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin.000\Documents\C#\WordsTranslate\WordsTranslate\WordsTranslate\obj\Debug\netstandard2.0\TablePage.xaml.g.cs
+C:\Users\Admin.000\Documents\C#\WordsTranslate\WordsTranslate\WordsTranslate\obj\Debug\netstandard2.0\WordsPage.xaml.g.cs
+C:\Users\Admin.000\Documents\C#\WordsTranslate\WordsTranslate\WordsTranslate\obj\Debug\netstandard2.0\WritePage.xaml.g.cs
+C:\Users\Admin.000\Documents\C#\WordsTranslate\WordsTranslate\WordsTranslate\obj\Debug\netstandard2.0\WordsTranslate.AssemblyInfoInputs.cache
+C:\Users\Admin.000\Documents\C#\WordsTranslate\WordsTranslate\WordsTranslate\obj\Debug\netstandard2.0\WordsTranslate.AssemblyInfo.cs
+C:\Users\Admin.000\Documents\C#\WordsTranslate\WordsTranslate\WordsTranslate\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin.000\Documents\C#\WordsTranslate\WordsTranslate\WordsTranslate\obj\Debug\netstandard2.0\WordsTranslate.dll
+C:\Users\Admin.000\Documents\C#\WordsTranslate\WordsTranslate\WordsTranslate\obj\Debug\netstandard2.0\WordsTranslate.pdb

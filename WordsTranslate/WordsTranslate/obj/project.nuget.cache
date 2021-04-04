@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JmIPjr/VnZCXyt+zGPtAOw1NK+fr4hw8tFKGl3a5TpvKptFXWquuTYUOPoGaiAzybD1HbQ3IZ2Nun5KiaLvdMQ==",
+  "success": true,
+  "projectFilePath": "c:\\repos\\WordsTranslate\\WordsTranslate\\WordsTranslate\\WordsTranslate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anton\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Anton\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Anton\\.nuget\\packages\\xamarin.forms\\4.2.0.709249\\xamarin.forms.4.2.0.709249.nupkg.sha512"
+  ],
+  "logs": []
+}

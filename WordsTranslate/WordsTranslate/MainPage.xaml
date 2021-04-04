@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:WordsTranslate"
+             x:Class="WordsTranslate.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Button Text="Words" x:Name="Button_Words"
+                VerticalOptions="Center"
+                Clicked="Button_Words_Click"/>
+        <Button Text="Table" x:Name="Button_Table"
+                VerticalOptions="Center"
+                Clicked="Button_Table_Click"/>
+        <Button Text="Write" x:Name="Button_Write"
+                VerticalOptions="Center"
+                Clicked="Button_Write_Click"/>
+    </StackLayout>
+
+</ContentPage>

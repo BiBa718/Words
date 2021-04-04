@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WordsTranslate.WordsPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Button Grid.Row="0" Grid.Column="0"
+                        Text="Back"
+                        Clicked="Button_Back_Click"/>
+                <Label Text="0 / 100"
+                       Grid.Row="0" Grid.Column="1"
+                       Grid.ColumnSpan="2"
+                       VerticalTextAlignment="Center"
+                       HorizontalTextAlignment="Center"
+                       x:Name="Label_Stat"/>
+                <Button Grid.Row="0" Grid.Column="3"
+                        Text="Restart"
+                        Clicked="Button_Restart_Click"/>
+                <Label Text="World"
+                       Grid.Row="1" Grid.ColumnSpan="4"
+                       VerticalTextAlignment="Center"
+                       HorizontalTextAlignment="Center"
+                       FontSize="Large"
+                       x:Name="Label_EN"/>
+                <Label Text="Мир" IsVisible="False"
+                       Grid.Row="2" Grid.ColumnSpan="4"
+                       VerticalTextAlignment="Center"
+                       HorizontalTextAlignment="Center"
+                       FontSize="Large"
+                       x:Name="Label_RU"/>
+                <Button Grid.Row="3" Grid.ColumnSpan="4"
+                        Text="Check"
+                        Clicked="Button_Check_Click"/>
+                <Button Grid.Row="4" Grid.ColumnSpan="2"
+                        Text="-" x:Name="Button_Wrong"
+                        Clicked="Button_Wrong_Click"/>
+                <Button Grid.Row="4" Grid.Column="2"
+                        Grid.ColumnSpan="2"
+                        Text="+" x:Name="Button_Right"
+                        Clicked="Button_Right_Click"/>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
